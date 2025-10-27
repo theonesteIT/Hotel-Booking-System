@@ -482,6 +482,9 @@ body{
     margin: 0;
     width: 100%;
  }
+ .welcome-section .welcome-text h1{
+    font-size: 36px;
+ }
  .welcome-section .welcome-cards-info{
     margin: 0px 0 0 0;
     flex-direction: column;
